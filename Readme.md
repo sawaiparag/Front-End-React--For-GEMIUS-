@@ -8,3 +8,5 @@
 
 
 ![Click me for live link](https://gemius-paragsawai.netlify.app/)
+
+https://gemius-paragsawai.netlify.app/plp
