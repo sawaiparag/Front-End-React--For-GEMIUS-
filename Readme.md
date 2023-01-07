@@ -7,3 +7,5 @@
 ![Badge](https://img.shields.io/badge/REACT-FULLY%20RESPONSIVE-lightgrey)
 
 ![Click me for live link](https://gemius-paragsawai.netlify.app/)
+
+https://gemius-paragsawai.netlify.app/
